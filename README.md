@@ -5,3 +5,4 @@ Excel: https://docs.google.com/spreadsheets/d/1KH3R9yFZKvCby57OP7F_qBs8Oa0gJ8gvo
 Mechanical Part: https://www.mcmaster.com , https://grabcad.com         
 Simulation: https://mechsimulator.com/#google_vignette , https://507movements.com       
 CAD_DRIVE : https://drive.google.com/drive/folders/1dl3RiU_QfFdGOkxU1Db1R06a3sT-Cnmz
+BOM: https://docs.google.com/spreadsheets/d/1xusW4mVqWlCyKeYN3bfsnfYkuIG8o0BDTnBsmmfebw4/edit?gid=0#gid=0
